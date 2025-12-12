@@ -75,21 +75,21 @@ function preload() {
   bg = loadImage('digitizerbg.png');
   record = loadImage('recordbutton_.png');
 
-  djidleImg = loadImage('DjAwakeIdle.png');
+  djidleImg = loadImage('DJAwakeIdle.png');
   djsleepImg = loadImage('DJSleep.png');    
   djwaveImg = loadImage('DjHi.png');    
   zzzGif = loadImage('zzz.gif');
   djthumbsupImg = loadImage('DJThumbsUp.png');
 
-  airhornImg = loadImage('airhornbutton.png');
+  airhornImg = loadImage('airhornbutton.png'); 
   blueImg    = loadImage('bluebutton.png');
   pinkImg    = loadImage('pinkbutton_.png');
   burgerImg  = loadImage('chezburgerbutton_.png');
   confettiImg = loadImage('Confetti.gif');
 
-  djDanceImgs[0] = loadImage('DjDance1.png');
-  djDanceImgs[1] = loadImage('DjDance2.png');
-  djDanceImgs[2] = loadImage('DjDance3.png');
+  djDanceImgs[0] = loadImage('DJDance1.png');
+  djDanceImgs[1] = loadImage('DJDance2.png');
+  djDanceImgs[2] = loadImage('DJDance3.png');
 
   djposesImgs[0] = loadImage('DJJojoPose1.png');
   djposesImgs[1] = loadImage('DJJojoPose2.png');
